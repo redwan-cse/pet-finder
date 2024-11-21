@@ -1,5 +1,5 @@
 # Use an official Python runtime as a parent image. Safe image 3.10.13-alpine3.17
-FROM python:3.13-rc-alpine
+FROM python:3.14-rc-alpine
 
 # Set environment variables
 ENV PYTHONDONTWRITEBYTECODE 1
